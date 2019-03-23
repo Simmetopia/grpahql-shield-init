@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Authenticantion resolver tests Login When loggin in with wrong credentials, should return auth token 1`] = `"Unknown login credentials"`;
